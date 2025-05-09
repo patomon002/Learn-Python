@@ -10,8 +10,3 @@
 
 # print(float(10/5)) ---- This will give us decimals instead of whole number 
 
-
-list = range(1, 'n')
-
-for number in list:
-    print(number)
